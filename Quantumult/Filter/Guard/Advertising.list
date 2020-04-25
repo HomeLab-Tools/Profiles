@@ -652,12 +652,7 @@ DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN,ads.youtube.com,REJECT
 
 # (H)
-# > HunanTV
-DOMAIN-SUFFIX,da.mgtv.com,REJECT
-DOMAIN-SUFFIX,da.hunantv.com,REJECT
-DOMAIN-SUFFIX,log.hunantv.com,REJECT
-DOMAIN-SUFFIX,v2.hunantv.com,REJECT
-# > Hupu
+# > 虎扑
 DOMAIN,adx.hupu.com,REJECT
 DOMAIN,adx-api.hupu.com,REJECT
 DOMAIN,goblin.hupu.com,REJECT
@@ -691,7 +686,7 @@ DOMAIN-SUFFIX,e.kuaishou.com,REJECT
 DOMAIN,js-ad.a.yximgs.com,REJECT
 
 # (L)
-# > Le
+# > 乐视
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
 DOMAIN,ark.letv.com,REJECT
 DOMAIN,emma-414870e223.huodonghezi.com,REJECT
@@ -886,3 +881,14 @@ IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
 # > ZOL
 DOMAIN,apppv.zol.com.cn,REJECT
 DOMAIN,pvnapp.zol.com.cn,REJECT
+# > 中国电信
+DOMAIN,ad.21cn.com,REJECT
+DOMAIN,ad.k.21cn.com,REJECT
+DOMAIN,admarket.21cn.com,REJECT
+DOMAIN,adshows.21cn.com,REJECT
+# > 小米
+DOMAIN-SUFFIX,ad.intl.xiaomi.com,REJECT
+DOMAIN-SUFFIX,ad.xiaomi.com,REJECT
+DOMAIN-SUFFIX,admob.xiaomi.com,REJECT
+DOMAIN,adv.sec.intl.miui.com,REJECT
+DOMAIN,adv.sec.miui.com,REJECT
