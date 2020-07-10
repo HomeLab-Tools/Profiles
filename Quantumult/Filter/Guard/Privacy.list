@@ -50,9 +50,5 @@ DOMAIN,safebrowsing.googleapis.com,REJECT
 DOMAIN-SUFFIX,tracking.miui.com,REJECT
 DOMAIN,data.mistat.xiaomi.com,REJECT
 DOMAIN,tracking.intl.miui.com,REJECT
-# > NetEase
-DOMAIN-SUFFIX,analytics.163.com,REJECT
-DOMAIN,crash.163.com,REJECT
-DOMAIN,crashlytics.163.com,REJECT
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
