@@ -553,6 +553,13 @@ DOMAIN,adextra.51wnl-cq.com,REJECT
 DOMAIN,log.51wnl-cq.com,REJECT
 DOMAIN,r.51wnl-cq.com,REJECT
 
+# (0~9)
+# > 51wnl
+DOMAIN,ad.51wnl-cq.com,REJECT
+DOMAIN,adextra.51wnl-cq.com,REJECT
+DOMAIN,log.51wnl-cq.com,REJECT
+DOMAIN,r.51wnl-cq.com,REJECT
+
 # (A)
 # > Apple
 DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
