@@ -98,17 +98,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
-# > Microsoft
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windowsupdate.com
-# DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
@@ -140,7 +129,6 @@ DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Steam
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 # > Tencent
 USER-AGENT,MicroMessenger%20Client

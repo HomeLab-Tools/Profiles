@@ -13,10 +13,20 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,.blogspot.
   # > Microsoft
+  - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN,az416426.vo.msecnd.net
   - DOMAIN,az668014.vo.msecnd.net
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windowsupdate.com
   # > Facebook
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,facebook.com

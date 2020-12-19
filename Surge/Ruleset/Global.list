@@ -13,9 +13,20 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+# DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
@@ -355,6 +366,7 @@ DOMAIN-SUFFIX,spiegel.de
 DOMAIN-SUFFIX,ssrcloud.org
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,straitstimes.com
