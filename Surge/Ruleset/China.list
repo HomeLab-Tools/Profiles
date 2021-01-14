@@ -238,7 +238,6 @@ DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
@@ -333,3 +332,7 @@ DOMAIN-SUFFIX,zhuihd.com
 
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
+
+# Tencent
+IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,182.254.116.0/24,no-resolve
