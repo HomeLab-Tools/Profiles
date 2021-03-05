@@ -697,6 +697,11 @@ DOMAIN,ws.ksmobile.net,REJECT
 DOMAIN-SUFFIX,e.kuaishou.com,REJECT
 DOMAIN,js-ad.a.yximgs.com,REJECT
 
+# (K)
+# > Kuaishou
+DOMAIN-SUFFIX,e.kuaishou.com,REJECT
+DOMAIN,js-ad.a.yximgs.com,REJECT
+
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
@@ -808,8 +813,8 @@ DOMAIN,pgdt.gtimg.com,REJECT
 DOMAIN,pgdt.ugdtimg.com,REJECT
 DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
-DOMAIN,wxsnsdy.wxs.qq.com,REJECT
-DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+# DOMAIN,wxsnsdy.wxs.qq.com,REJECT
+# DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com,REJECT
 DOMAIN,adstats.tencentmusic.com,REJECT

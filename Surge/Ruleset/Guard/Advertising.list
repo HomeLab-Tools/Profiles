@@ -159,6 +159,11 @@ DOMAIN,ws.ksmobile.net
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,js-ad.a.yximgs.com
 
+# (K)
+# > Kuaishou
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,js-ad.a.yximgs.com
+
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com
